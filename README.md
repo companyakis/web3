@@ -6,5 +6,5 @@ https://github.com/companyakis/solidity-fast
 TypeScript:
 https://github.com/companyakis/typescript
 
-Aptos:
-...
+Move Language:
+2024
