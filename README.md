@@ -3,8 +3,8 @@
 TypeScript:
 https://github.com/companyakis/typescript
 
-React Basics:
-https://github.com/companyakis/react-basics
+TypeScript Türkçe Kaynak:
+https://github.com/companyakis/typescript-ilk-adimlar
 
 Solidity Fast:
 https://github.com/companyakis/solidity-fast
