@@ -1,13 +1,13 @@
 # Web3 Blockchain
 
+Solidity Fast:
+https://github.com/companyakis/solidity-fast
+
 TypeScript:
 https://github.com/companyakis/typescript
 
 TypeScript Türkçe Kaynak:
 https://github.com/companyakis/typescript-ilk-adimlar
-
-Solidity Fast:
-https://github.com/companyakis/solidity-fast
 
 Move Language:
 2024
