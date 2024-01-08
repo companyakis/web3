@@ -1,5 +1,8 @@
 # Web3 Blockchain
 
+Solidity Course Answers:
+https://github.com/companyakis/solidity-alchemy-answers
+
 Solidity Fast:
 https://github.com/companyakis/solidity-fast
 
