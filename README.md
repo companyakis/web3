@@ -1,7 +1,7 @@
 # Web3 Blockchain
 
-Sui Move Basics:
-https://github.com/companyakis/sui-move-basics
+Rust Basics:
+https://github.com/companyakis/rust-basics
 
 Solidity Fast:
 https://github.com/companyakis/solidity-fast
