@@ -3,6 +3,9 @@
 Rust Basics:
 https://github.com/companyakis/rust-basics
 
+"Tour of Rust" Brothership:
+https://github.com/companyakis/rust-brothership
+
 Rust Türkçe Temeller:
 https://github.com/companyakis/rust-turk-dili
 
