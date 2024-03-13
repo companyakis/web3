@@ -6,9 +6,6 @@ https://github.com/companyakis/rust-basics
 "Tour of Rust" Brothership:
 https://github.com/companyakis/rust-brothership
 
-Lisp Clojure:
-https://github.com/companyakis/lisp-clojure
-
 Rust Türkçe Temeller:
 https://github.com/companyakis/rust-turk-dili
 
