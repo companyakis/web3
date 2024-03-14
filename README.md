@@ -6,8 +6,11 @@ https://github.com/companyakis/rust-basics
 "Tour of Rust" Brothership:
 https://github.com/companyakis/rust-brothership
 
-Blockchain Developer Course
-https://github.com/companyakis/blockchain-developer-course
+Alchemy University Learn Solidity:
+https://github.com/companyakis/learn-solidity
+
+Alchemy University Learn JavaScript:
+https://github.com/companyakis/learn-js
 
 Rust Türkçe Temeller:
 https://github.com/companyakis/rust-turk-dili
@@ -18,5 +21,4 @@ https://github.com/companyakis/move-spiders
 Solidity Fast:
 https://github.com/companyakis/solidity-fast
 
-Solidity Course Answers:
-https://github.com/companyakis/solidity-alchemy-answers
+
