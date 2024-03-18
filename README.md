@@ -1,13 +1,13 @@
 # Web3 Blockchain
 
+Alchemy University Learn Solidity:
+https://github.com/companyakis/learn-solidity
+
 Rust Basics:
 https://github.com/companyakis/rust-basics
 
 "Tour of Rust" Brothership:
 https://github.com/companyakis/rust-brothership
-
-Alchemy University Learn Solidity:
-https://github.com/companyakis/learn-solidity
 
 Alchemy University Learn JavaScript:
 https://github.com/companyakis/learn-js
