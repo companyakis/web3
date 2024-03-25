@@ -1,5 +1,8 @@
 # Web3 Blockchain
 
+Solidity is Easy (March 2024):
+https://github.com/companyakis/solidity-is-easy
+
 Rust Basics:
 https://github.com/companyakis/rust-basics
 
