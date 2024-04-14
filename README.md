@@ -3,6 +3,9 @@
 Let's Dive Into Rust (2024-...):
 https://github.com/companyakis/lets-diveinto-rust
 
+Solidity Fast:
+https://github.com/companyakis/solidity-fast
+
 TypeScript (2024-...):
 https://github.com/companyakis/typescripts
 
