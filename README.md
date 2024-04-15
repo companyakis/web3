@@ -1,5 +1,8 @@
 # Web3 Blockchain
 
+Flutter and Solidity:
+https://github.com/companyakis/flutter-solidity
+
 Let's Dive Into Rust (2024-...):
 https://github.com/companyakis/lets-diveinto-rust
 
