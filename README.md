@@ -3,13 +3,13 @@
 Flutter and Solidity:
 https://github.com/companyakis/flutter-solidity
 
-Let's Dive Into Rust (2024-...):
-https://github.com/companyakis/lets-diveinto-rust
+Flutter and Rust:
+https://github.com/companyakis/flutter-rust
 
 Solidity Fast:
 https://github.com/companyakis/solidity-fast
 
-TypeScript (2024-...):
+TypeScript :
 https://github.com/companyakis/typescripts
 
 Rust Basics:
