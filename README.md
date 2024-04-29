@@ -6,9 +6,6 @@ https://github.com/companyakis/rust-bootcamp
 Flutter and Solidity:
 https://github.com/companyakis/flutter-solidity
 
-Flutter and Rust:
-https://github.com/companyakis/flutter-rust
-
 Solidity Fast:
 https://github.com/companyakis/solidity-fast
 
