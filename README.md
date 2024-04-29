@@ -1,5 +1,8 @@
 # Web3 Blockchain
 
+Rust Bootcamp 2024:
+https://github.com/companyakis/rust-bootcamp
+
 Flutter and Solidity:
 https://github.com/companyakis/flutter-solidity
 
