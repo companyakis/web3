@@ -3,12 +3,6 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
-Flutter and Solidity:
-https://github.com/companyakis/flutter-solidity
-
-Solidity Fast:
-https://github.com/companyakis/solidity-fast
-
 TypeScript :
 https://github.com/companyakis/typescripts
 
