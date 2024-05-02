@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Flutter Dapp:
+https://github.com/companyakis/flutter-solidity
+
 TypeScript :
 https://github.com/companyakis/typescripts
 
