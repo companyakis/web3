@@ -3,14 +3,8 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
-Solidity Alchemy University Challenges:
-https://github.com/companyakis/alchemy-challenges
-
 Internet Computer Motoko:
 https://github.com/companyakis/motoko
-
-Flutter Dapp:
-https://github.com/companyakis/flutter-solidity
 
 TypeScript :
 https://github.com/companyakis/typescripts
