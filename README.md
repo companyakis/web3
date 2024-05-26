@@ -12,6 +12,9 @@ https://github.com/companyakis/flutter-solidity-dapp
 Solidity Alchemy Challenges:
 https://github.com/companyakis/alchemy-challenges
 
+JavaScript Alchemy Challenges:
+https://github.com/companyakis/alchemy-js
+
 Rust Türkçe Temeller:
 https://github.com/companyakis/rust-turk-dili
 
