@@ -12,14 +12,14 @@ https://github.com/companyakis/flutter-solidity-dapp
 Solidity Alchemy Challenges:
 https://github.com/companyakis/alchemy-challenges
 
+Sui Move Challenges:
+https://github.com/companyakis/sui-move
+
 JavaScript Alchemy Challenges:
 https://github.com/companyakis/alchemy-js
 
 Rust Türkçe Temeller:
 https://github.com/companyakis/rust-turk-dili
-
-Aptos Shores Move (Baby steps...):
-https://github.com/companyakis/aptos
 
 Internet Computer Motoko: (Baby steps)
 https://github.com/companyakis/motoko
