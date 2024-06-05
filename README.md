@@ -6,6 +6,9 @@ https://github.com/companyakis/rust-bootcamp
 Ethereum Developer Bootcamp:
 https://github.com/companyakis/ethereum-developer-bootcamp
 
+Brother of "Solidity By Example":
+https://github.com/companyakis/soliditybyexample
+
 Flutter Solidity Dapp 2024:
 https://github.com/companyakis/flutter-solidity-dapp
 
