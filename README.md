@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Cadence:
+https://github.com/companyakis/cadence
+
 Flow Cadence CryptoKitties:
 https://github.com/companyakis/flow-blockchain-cryptokitties
 
