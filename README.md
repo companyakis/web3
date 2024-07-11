@@ -3,9 +3,6 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
-Cadence:
-https://github.com/companyakis/cadence
-
 Alchemy University Solidity
 https://github.com/companyakis/alchemy-solidity
 
