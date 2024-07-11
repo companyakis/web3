@@ -9,9 +9,6 @@ https://github.com/companyakis/cadence
 Alchemy University Solidity
 https://github.com/companyakis/alchemy-solidity
 
-Alchemy University JavaScript:
-https://github.com/companyakis/alchemy-javascript
-
 Solidity Flutter Dapp (2025):
 https://github.com/companyakis/flutter-solidity-dapp
 
