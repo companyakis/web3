@@ -9,6 +9,9 @@ https://github.com/companyakis/alchemy-solidity
 TypeScript for Web3:
 https://github.com/companyakis/typescript-for-web3
 
+Alchemy University JS:
+https://github.com/companyakis/alchemy-javascript
+
 Solidity Flutter Dapp (Not yet):
 https://github.com/companyakis/flutter-solidity-dapp
 
