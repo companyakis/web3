@@ -6,6 +6,9 @@ https://github.com/companyakis/rust-bootcamp
 TypeScript for Web3:
 https://github.com/companyakis/typescript-for-web3
 
+Alchemy University Solidity:
+https://github.com/companyakis/alchemy-solidity
+
 Alchemy University JS:
 https://github.com/companyakis/alchemy-javascript
 
