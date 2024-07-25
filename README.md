@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Vyper:
+https://github.com/companyakis/vyper-lang
+
 TypeScript for Web3:
 https://github.com/companyakis/typescript-for-web3
 
