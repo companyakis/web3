@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Solidity Three Days:
+https://github.com/companyakis/solidity-three-days
+
 TypeScript for Web3:
 https://github.com/companyakis/typescript-for-web3
 
