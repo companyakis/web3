@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Solidity Türkçe:
+https://github.com/companyakis/solidity-turkce
+
 Alchemy University Solidity:
 https://github.com/companyakis/alchemy-solidity
 
