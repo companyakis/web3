@@ -3,8 +3,8 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
-Solidity Türkçe:
-https://github.com/companyakis/solidity-turkce
+ETH Bootcamp:
+https://github.com/companyakis/eth-bootcamp
 
 Starknet Cairo:
 https://github.com/companyakis/cairo
@@ -17,7 +17,3 @@ https://github.com/companyakis/typescript-for-web3
 
 Alchemy University JS:
 https://github.com/companyakis/alchemy-javascript
-
-CosmWasm Area 52 (Not yet):
-https://github.com/companyakis/area-52
-
