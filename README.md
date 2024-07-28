@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Motoko Bootcamp:
+https://github.com/companyakis/motoko-bootcamp
+
 Vyper Language:
 https://github.com/companyakis/vyper-pokemon
 
