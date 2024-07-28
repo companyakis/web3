@@ -9,9 +9,6 @@ https://github.com/companyakis/vyper-pokemon
 Alchemy University JS:
 https://github.com/companyakis/alchemy-javascript
 
-Hackquest Certified Solana Learner Track:
-https://github.com/companyakis/hackquest-solana
-
 Starknet Cairo:
 https://github.com/companyakis/cairo
 
