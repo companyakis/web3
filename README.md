@@ -9,7 +9,7 @@ https://github.com/companyakis/vyper-pokemon
 Alchemy University JS:
 https://github.com/companyakis/alchemy-javascript
 
-Starknet Cairo:
+Starknet Cairo (2025):
 https://github.com/companyakis/cairo
 
 TypeScript for Web3:
