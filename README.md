@@ -3,6 +3,9 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
+Hackquest Certified Solana Learner Track:
+https://github.com/companyakis/hackquest-solana
+
 ETH Bootcamp:
 https://github.com/companyakis/eth-bootcamp
 
