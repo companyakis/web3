@@ -12,5 +12,5 @@ https://github.com/companyakis/alchemy-javascript
 Starknet Cairo (2025):
 https://github.com/companyakis/cairo
 
-TypeScript for Web3:
+TypeScript for Web3 (2025):
 https://github.com/companyakis/typescript-for-web3
