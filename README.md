@@ -6,9 +6,6 @@ https://github.com/companyakis/rust-bootcamp
 Motoko Bootcamp:
 https://github.com/companyakis/motoko-bootcamp
 
-Vyper Language:
-https://github.com/companyakis/vyper-pokemon
-
 Alchemy University JS:
 https://github.com/companyakis/alchemy-javascript
 
