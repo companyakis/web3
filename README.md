@@ -3,9 +3,6 @@
 Rust Bootcamp 2024:
 https://github.com/companyakis/rust-bootcamp
 
-Motoko Bootcamp:
-https://github.com/companyakis/motoko-bootcamp
-
 Solidity Challenges:
 https://github.com/companyakis/solidity-challenges
 
