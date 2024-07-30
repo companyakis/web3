@@ -6,6 +6,9 @@ https://github.com/companyakis/rust-bootcamp
 Motoko Bootcamp:
 https://github.com/companyakis/motoko-bootcamp
 
+Alchemy University Solidity:
+https://github.com/companyakis/alchemy-solidity
+
 Alchemy University JS:
 https://github.com/companyakis/alchemy-javascript
 
