@@ -1,15 +1,15 @@
 # Web3 Blockchain
 
-Rust Bootcamp 2024:
+Rust Bootcamp 2024 (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Solidity Challenges:
-https://github.com/companyakis/solidity-challenges
+Rise-in Solidity (Ongoing):
+https://github.com/companyakis/risein-solidity
 
-Alchemy University Solidity:
+Alchemy University Solidity (Ongoing):
 https://github.com/companyakis/alchemy-solidity
 
-Alchemy University JS:
+Alchemy University JS (Ongoing):
 https://github.com/companyakis/alchemy-javascript
 
 Starknet Cairo (2025):
