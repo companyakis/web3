@@ -3,6 +3,9 @@
 Rise-in Solidity (Ongoing):
 https://github.com/companyakis/risein-solidity
 
+Rise-in Rust (Ongoing):
+https://github.com/companyakis/risein-rust
+
 Rise-in Built-on Scroll (Ongoing):
 https://github.com/companyakis/built-on-scroll
 
