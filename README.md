@@ -1,8 +1,5 @@
 # Web3 Blockchain
 
-Rise-in Solidity (Ongoing):
-https://github.com/companyakis/risein-solidity
-
 Rust Bootcamp 2024 (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
