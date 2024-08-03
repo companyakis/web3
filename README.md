@@ -3,6 +3,9 @@
 Rust Bootcamp 2024 (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
+Solidity Crypto Zombies:
+https://github.com/companyakis/crypto-zombies
+
 Rise-in Built-on Scroll (Ongoing):
 https://github.com/companyakis/built-on-scroll
 
