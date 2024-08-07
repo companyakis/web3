@@ -3,14 +3,8 @@
 Rust Bootcamp 2024 (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Solidity Crypto Zombies:
-https://github.com/companyakis/crypto-zombies
-
-Rise-in Built-on Scroll (Ongoing):
-https://github.com/companyakis/built-on-scroll
-
-Alchemy University Solidity (Ongoing):
-https://github.com/companyakis/alchemy-solidity
+XRP Ledger (Ongoing):
+https://github.com/companyakis/xrp-ledger
 
 Alchemy University JS (Ongoing):
 https://github.com/companyakis/alchemy-javascript
