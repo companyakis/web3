@@ -3,6 +3,9 @@
 Rust Bootcamp 2024 (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
+100 Exercises To Learn Rust:
+https://github.com/companyakis/100-exercises-to-learn-rust
+
 XRP Ledger (Ongoing):
 https://github.com/companyakis/xrp-ledger
 
