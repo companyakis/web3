@@ -6,6 +6,9 @@ https://github.com/companyakis/rust-bootcamp
 100 Exercises To Learn Rust:
 https://github.com/companyakis/100-exercises-to-learn-rust
 
+Vyper Pokemon:
+https://github.com/companyakis/vyper-language-pokemon
+
 XRP Ledger (Ongoing):
 https://github.com/companyakis/xrp-ledger
 
