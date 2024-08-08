@@ -12,8 +12,5 @@ https://github.com/companyakis/vyper-language-pokemon
 XRP Ledger (Ongoing):
 https://github.com/companyakis/xrp-ledger
 
-Alchemy University JS (Ongoing):
-https://github.com/companyakis/alchemy-javascript
-
 TypeScript for Web3 (2025):
 https://github.com/companyakis/typescript-for-web3
