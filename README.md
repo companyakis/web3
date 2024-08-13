@@ -6,5 +6,5 @@ https://github.com/companyakis/rust-bootcamp
 XRP Ledger (Ongoing):
 https://github.com/companyakis/xrp-ledger
 
-100 Exercises To Learn Rust:
-https://github.com/companyakis/100-exercises-to-learn-rust
+Rust Programming for Smart Contract Development: 
+https://github.com/companyakis/rust-smart-contract-dev
