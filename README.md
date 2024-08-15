@@ -1,7 +1,7 @@
 # Web3 Blockchain
 
-Fuel Network (Ongoing):
-https://github.com/companyakis/fuel-sway
+Ethereum Developer Bootcamp (Ongoing):
+https://github.com/companyakis/eth-bootcamp
 
 XRP Ledger (Ongoing):
 https://github.com/companyakis/xrp-ledger
