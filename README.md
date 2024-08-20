@@ -3,6 +3,6 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Algorand Python Smart Contracts:
-https://github.com/companyakis/algorand
+Typescript Smart Contracts:
+https://github.com/companyakis/typescript-smart-contracts
 
