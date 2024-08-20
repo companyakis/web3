@@ -3,6 +3,9 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
+XRPL:
+https://github.com/companyakis/xrp-ledger
+
 Rust 3 Günde Öğren:
 https://github.com/companyakis/rust-uc-gun
 
