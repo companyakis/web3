@@ -12,3 +12,6 @@ https://github.com/companyakis/rust-uc-gun
 TypeScript:
 https://github.com/companyakis/typescripts
 
+Solidity:
+https://github.com/companyakis/solidity-fast
+
