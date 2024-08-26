@@ -3,8 +3,8 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Aptos Move:
-https://github.com/companyakis/aptos-move-2024
+Vyper Ethereum:
+https://github.com/companyakis/vyper-eth
 
 TypeScript:
 https://github.com/companyakis/typescripts
