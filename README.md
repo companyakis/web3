@@ -3,8 +3,8 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Vyper Ethereum:
-https://github.com/companyakis/vyper-eth
+Solidity Bootcamp:
+https://github.com/companyakis/solidity-bootcamp
 
 TypeScript:
 https://github.com/companyakis/typescripts
