@@ -3,8 +3,8 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Solidity Bootcamp:
-https://github.com/companyakis/solidity-bootcamp
+Rise-in Solidity:
+https://github.com/companyakis/solidity-fundamentals
 
 TypeScript:
 https://github.com/companyakis/typescripts
