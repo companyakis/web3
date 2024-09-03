@@ -3,8 +3,8 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Sui Move:
-https://github.com/companyakis/sui
+Stellar:
+https://github.com/companyakis/stellar
 
 Solidity:
 https://github.com/companyakis/solidity-fast
