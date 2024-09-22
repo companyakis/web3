@@ -3,8 +3,8 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Rust for Web3:
-https://github.com/companyakis/rust-for-webthree
+Rustlings:
+https://github.com/companyakis/rustlings
 
 Stellar:
 https://github.com/companyakis/stellar
