@@ -3,8 +3,8 @@
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Rustlings:
-https://github.com/companyakis/rustlings
+Rust Programming for Smart Contract Development:
+https://github.com/companyakis/rust-for-smart-contract
 
 Stellar:
 https://github.com/companyakis/stellar
