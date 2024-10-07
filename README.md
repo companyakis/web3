@@ -1,10 +1,7 @@
 # Web3 Blockchain
 
-Rust Bootcamp (Ongoing):
+Rust Bootcamp:
 https://github.com/companyakis/rust-bootcamp
-
-Rust Programming for Smart Contract Development:
-https://github.com/companyakis/rust-for-smart-contract
 
 Stellar:
 https://github.com/companyakis/stellar
