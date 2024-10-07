@@ -3,7 +3,7 @@
 Rust Bootcamp:
 https://github.com/companyakis/rust-bootcamp
 
-Stellar:
+Stellar (Ongoing):
 https://github.com/companyakis/stellar
 
 Solidity:
