@@ -1,9 +1,6 @@
 # Web3 Blockchain
 
-Ethereum Bootcamp:
-https://github.com/companyakis/ethereumbootcamp
-
-Rust Bootcamp:
+Rust Bootcamp for Web3:
 https://github.com/companyakis/rust-bootcamp
 
 Stellar (Ongoing):
