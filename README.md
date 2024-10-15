@@ -1,5 +1,8 @@
 # Web3 Blockchain
 
+CosmWasm and Smart Contracts in Rust
+https://github.com/companyakis/cosm-wasm-area52
+
 Rust Bootcamp for Web3:
 https://github.com/companyakis/rust-bootcamp
 
