@@ -3,8 +3,8 @@
 Stellar (Ongoing):
 https://github.com/companyakis/stellar
 
-Vyper (Ongoing):
-https://github.com/companyakis/vypers
+ETH Bootcamp:
+https://github.com/companyakis/ethereumbootcamp
 
 Rust Bootcamp for Web3:
 https://github.com/companyakis/rust-bootcamp
