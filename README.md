@@ -3,6 +3,9 @@
 Stellar (Ongoing):
 https://github.com/companyakis/stellar
 
+Solidity Assignments(Ongoing):
+https://github.com/companyakis/solidity-assignments
+
 ETH Bootcamp:
 https://github.com/companyakis/ethereumbootcamp
 
