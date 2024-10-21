@@ -1,6 +1,9 @@
 # Web3 Blockchain
 
-Stellar (Ongoing):
+Build on Vara:
+https://github.com/companyakis/build-on-vara
+
+Stellar (Wait):
 https://github.com/companyakis/stellar
 
 Rust Bootcamp for Web3:
