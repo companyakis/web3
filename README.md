@@ -1,5 +1,8 @@
 # Web3 Blockchain
 
+Solidity Challenges:
+https://github.com/companyakis/learn-solidity-course-challenges
+
 Rust Bootcamp for Web3:
 https://github.com/companyakis/rust-bootcamp
 
