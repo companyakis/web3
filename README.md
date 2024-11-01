@@ -3,8 +3,11 @@
 TypeScript Smart Contracts:
 https://github.com/companyakis/ts-smart
 
-Chainlink:
-https://github.com/companyakis/chainlink
+Rust Programming Language:
+https://github.com/companyakis/rust-programming-language
+
+Rust Bootcamp:
+https://github.com/companyakis/rust-bootcamp
 
 Solidity:
 https://github.com/companyakis/solidity-fast
