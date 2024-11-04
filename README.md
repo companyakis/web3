@@ -6,9 +6,6 @@ https://github.com/companyakis/ts-smart
 Rust Programming Language:
 https://github.com/companyakis/rust-programming-language
 
-Solidity Cyfrin:
-https://github.com/companyakis/solidity-cyfrin-clone
-
 Rust Bootcamp:
 https://github.com/companyakis/rust-bootcamp
 
