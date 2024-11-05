@@ -6,9 +6,6 @@ https://github.com/companyakis/ts-smart
 Vyper Smart Contracts:
 https://github.com/companyakis/vyper-smart-contract
 
-Rust Programming Language:
-https://github.com/companyakis/rust-programming-language
-
 Rust Bootcamp:
 https://github.com/companyakis/rust-bootcamp
 
