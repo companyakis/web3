@@ -3,11 +3,8 @@
 TypeScript Smart Contracts:
 https://github.com/companyakis/ts-smart
 
-Vyper Smart Contracts:
-https://github.com/companyakis/vyper-smart-contract
-
-Rust Smart Contracts:
-https://github.com/companyakis/rust-smart-contracts
+Solidity 2025:
+https://github.com/companyakis/solidity2025
 
 Rust Bootcamp:
 https://github.com/companyakis/rust-bootcamp
