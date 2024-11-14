@@ -1,8 +1,5 @@
 # Web3 Blockchain
 
-Aptos Moves:
-https://github.com/companyakis/aptos-moves
-
 TypeScript Smart Contracts:
 https://github.com/companyakis/ts-smart
 
