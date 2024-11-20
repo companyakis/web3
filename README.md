@@ -1,7 +1,7 @@
 # Web3 Blockchain
 
-Cardano Dapp Defi:
-https://github.com/companyakis/cardano-dapp-defi
+Solana Seahorse University:
+https://github.com/companyakis/solana-seahorse
 
 TypeScript Smart Contracts:
 https://github.com/companyakis/ts-smart
