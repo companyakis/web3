@@ -1,14 +1,16 @@
 # Web3 Blockchain
 
-TypeScript Smart Contracts:
-https://github.com/companyakis/ts-smart
+Vyper Smart Contracts (Ongoing):
+https://github.com/companyakis/vyper2025
 
-Rust Bootcamp:
+Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Solidity:
+Solidity (Ongoing):
 https://github.com/companyakis/solidity-fast
 
+TypeScript Smart Contracts (Wait):
+https://github.com/companyakis/ts-smart
 
 
 
