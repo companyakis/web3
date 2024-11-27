@@ -1,8 +1,5 @@
 # Web3 Blockchain
 
-Solana Seahorse University:
-https://github.com/companyakis/solana-seahorse
-
 TypeScript Smart Contracts:
 https://github.com/companyakis/ts-smart
 
