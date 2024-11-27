@@ -6,7 +6,7 @@ https://github.com/companyakis/vyper2025
 Rust Bootcamp (Ongoing):
 https://github.com/companyakis/rust-bootcamp
 
-Solidity (Ongoing):
+Solidity (Wait):
 https://github.com/companyakis/solidity-fast
 
 TypeScript Smart Contracts (Wait):
