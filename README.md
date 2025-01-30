@@ -1,6 +1,6 @@
 # Web3 Blockchain
 
-React:
+React and Solidity:
 https://github.com/companyakis/react-2025
 
 Solidity and JavaScript 2025:
