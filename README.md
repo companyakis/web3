@@ -1,10 +1,9 @@
 # Web3 Blockchain
 
-Solidity, JS and React Apps:
-https://github.com/companyakis/solidity-javascript-react
+Solidity:
+https://github.com/companyakis/solidity
 
-TypeScript for Web3 (Ongoing):
-https://github.com/companyakis/ts-web3
+
 
 
 
