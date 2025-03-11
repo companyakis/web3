@@ -3,7 +3,7 @@
 Solidity:
 https://github.com/companyakis/solidity
 
-TypeScript and React:
+TypeScript Smart Contracts:
 https://github.com/companyakis/ts-react
 
 Algorand and Cardano Smart Contracts (Wait):
