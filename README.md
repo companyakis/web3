@@ -1,8 +1,5 @@
 # Web3 Blockchain
 
-Solidity:
-https://github.com/companyakis/solidity
-
 TypeScript Smart Contracts:
 https://github.com/companyakis/ts-smart-contracts
 
