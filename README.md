@@ -1,6 +1,9 @@
 # Web3 Blockchain
 
-Move:
+Solidity FullStack:
+https://github.com/companyakis/full-stack-web3
+
+Move (Wait):
 https://github.com/companyakis/aptos
 
 TypeScript Smart Contracts:
