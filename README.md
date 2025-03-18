@@ -1,8 +1,5 @@
 # Web3 Blockchain
 
-React for Web3:
-https://github.com/companyakis/react-basics
-
 Move:
 https://github.com/companyakis/aptos
 
