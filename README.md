@@ -1,6 +1,6 @@
 # Web3 Blockchain
 
-React and JS:
+React and JS with Solidity:
 https://github.com/companyakis/react-basics
 
 Move:
