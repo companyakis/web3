@@ -6,8 +6,8 @@ https://github.com/companyakis/react-web3
 TypeScript Smart Contracts (Wait):
 https://github.com/companyakis/ts-smart-contracts
 
-Algorand and Cardano Smart Contracts (Wait):
-https://github.com/companyakis/python-smart-contracts
+Move (Wait):
+https://github.com/companyakis/moves
 
 
 
